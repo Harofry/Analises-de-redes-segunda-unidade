@@ -1,2 +1,2 @@
-# Analises-de-redes- unidade 2
-Trabalho avaliativo para a segunda unidade da disciplina
+# Analises-de-redes- unidade 2 e 3
+Trabalho avaliativo para a segunda e terceira unidade da disciplina
